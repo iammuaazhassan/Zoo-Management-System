@@ -1,0 +1,6 @@
+lim4_1,Lion,2,1,M,5,10.000000,Mammal,Sick,Ahmed,Meat,Carnivore,Adequate,Kenya,Endangered,1-1-1900,Lion Enclosure,Zone A
+ele4_2,Elephant,3,2,F,4,12.500000,Mammal,Fit,Salman,Diet 2,Herbivore,Low,Srilanka,Common,1-1-1900,Elephant Enclosure,Zone B
+tig4_3,Tiger,1,3,M,6,15.000000,Mammal,Fit,Umer,Meat,Carnivore,Low,Nepal,Endangered,1-1-1900,Tiger Enclosure,Zone C
+gir4_4,Giraffe,2,4,F,3,9.500000,Mammal,Fit,Ali,Leave,Herbivore,Adequate,Namibia,Common,1-1-1900,Giraffe Enclosure,Zone D
+zeb4_5,Zebra,3,5,M,4,11.000000,Mammal,Sick,Ahmed,Grass,Herbivore,Low,Zambia,Endangered,1-1-1900,Zebra Enclosure,Zone E
+lim4_
